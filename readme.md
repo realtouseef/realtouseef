@@ -5,7 +5,7 @@ Software Engineer | MERN Stack
 ------------------------------
 
 * 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [touseef-cv.vercel.app](https://touseefcv.vercel.app/)]
+* 🖥️  See my portfolio at [touseefcv.vercel.app](https://touseefcv.vercel.app/)]
 * ✉️  You can contact me at [touseefibnkhalil@gmail.com](mailto:touseefibnkhalil@gmail.com)
 
 <a href="https://www.github.com/realtouseef" target="_blank" rel="noreferrer"><img
