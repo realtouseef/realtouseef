@@ -16,6 +16,8 @@ Working on products that are useful in this dunya and, inshallah, sadaqa-e-jariy
 
 ## Start Here
 
+✅ [**Proofly**](https://useproofly.app) – Social proof widget for SaaS products.
+
 🚀 [**ShipQuick**](https://shipquick.app) – TanStack Start SaaS boilerplate. MongoDB/Mongoose stack, lifetime deal, ships fast.
 
 🔬 [**ShipQuick Labs**](https://labs.shipquick.app) – Experiments and side builds.
@@ -23,8 +25,6 @@ Working on products that are useful in this dunya and, inshallah, sadaqa-e-jariy
 🕌 [**Deen**](https://deen.shipquick.app) – Islamic OS built on ShipQuick.
 
 🧠 [**Thynq**](https://thynq.org) – an AI coach that fixes your thinking.
-
-✅ [**Proofly**](https://useproofly.app) – Social proof widget for SaaS products.
 
 ---
 
