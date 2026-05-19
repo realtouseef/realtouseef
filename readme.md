@@ -2,7 +2,7 @@
 
 📍 Chitral, Pakistan | 🛠️ Indie SaaS builder | 🕌 Building for barakah
 
-Working on products that are useful in this dunya and, inshallah, sadaqa-e-jariya beyond it.
+Working on products that are useful in this dunya and, In Sha Allah, sadaqa-e-jariya beyond it.
 
 `TypeScript` `React` `TanStack Start` `Next.js` `MongoDB` `Supabase` `Node.js` `Express.js` `Cloudflare` `AWS` `Better Auth` `Clerk` `Supabase Authentication` `Zod` `Zustand` `Electron` `React Native` `Hono.js` `Framer Motion` `GSAP`
 
