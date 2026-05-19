@@ -5,6 +5,8 @@
 Working on products that are useful in this dunya and, inshallah, sadaqa-e-jariya beyond it.
 
 `TypeScript` `React` `TanStack Start` `Next.js` `MongoDB` `Gemini AI` `Node.js` `Three.js`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/touseefcodes)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/touseefcodes)
 
 ---
 
