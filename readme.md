@@ -1,70 +1,57 @@
-# Hi there, I'm Touseef Ur Rehman 👋
+# Hi, I'm Touseef 👋
 
-## Software Engineer | MERN Stack
+📍 Chitral, Pakistan | 🛠️ Indie SaaS builder | 🕌 Building for barakah
 
-I'm a passionate Software Engineer based in Pakistan, specializing in the MERN (MongoDB, Express.js, React, Node.js) stack and Postgres. I enjoy building impactful web applications and contributing to open-source projects.
+Working on products that are useful in this dunya and, inshallah, sadaqa-e-jariya beyond it.
 
-- 🌍 I'm based in Pakistan
-- 🖥️ See my portfolio at [touseefcv.vercel.app](https://touseefcv.vercel.app/)
-- ✉️ You can contact me at [touseefibnkhalil@gmail.com](mailto:touseefibnkhalil@gmail.com)
-- 🔗 Connect with me on LinkedIn: [in/touseefcodes](https://www.linkedin.com/in/touseefcodes/)
+`TypeScript` `React` `TanStack Start` `Next.js` `MongoDB` `Gemini AI` `Node.js` `Three.js`
 
-## Skills
+---
 
-**Languages & Technologies:** JavaScript, TypeScript, ReactJS, NextJS 15, ExpressJS, Mongoose, MongoDB, Git, GitHub, AWS S3, Postgres
+## Start Here
 
-**Frameworks & Libraries:** Redux Toolkit, Zustand, Firebase Authentication, Next-Auth, NextJS Server Actions, TailwindCSS, Ant Design, ShadCN UI
+🚀 [**ShipQuick**](https://shipquick.app) – TanStack Start SaaS boilerplate. MongoDB/Mongoose stack, lifetime deal, ships fast.
 
-## Featured Projects
+🔬 [**ShipQuick Labs**](https://labs.shipquick.app) – Experiments and side builds.
 
-### [Gaze-Guard](https://github.com/realtouseef/gaze-guard)
+🕌 [**Deen**](https://deen.shipquick.app) – Islamic OS built on ShipQuick.
 
-A privacy-focused Chrome extension that uses on-device AI to detect and blur inappropriate images on web pages.
+🧠 [**Thynq**](https://thynq.org) – an AI coach that fixes your thinking.
 
-**Technologies:** JavaScript
+✅ [**Proofly**](https://useproofly.app) – Social proof widget for SaaS products.
 
-### [PulsePlus](https://github.com/realtouseef/pulseplus)
+---
 
-A lightweight, concurrent URL status checker written in Go.
+## Islamic Projects
 
-**Technologies:** Go
+These matter most to me.
 
-### [QuranFan](https://github.com/realtouseef/quranfan)
+📖 [**QuranFan**](https://quranfan.vercel.app) – Find Quranic verses by emotion (sadness, hopelessness, anxiety). Urdu + English translations, random verse picker, search.
 
-An application that provides easy access to Quranic verses based on emotions like sadness, depression, and hopelessness, offering comfort and guidance. It includes Urdu and English translations, a random verse picker, and a search feature.
+🌿 [**Noorify**](https://noorify.vercel.app) – Turn Quranic verses into clean, shareable images. No design skills needed.
 
-**Technologies:** JavaScript
+🤲 [**Quranic Duas**](https://github.com/realtouseef/quranic-duas) – A curated list of duas taken directly from the Quran.
 
-### [Noorify](https://github.com/realtouseef/noorify)
+🌙 [**Qamar**](https://github.com/realtouseef/qamar) – API that returns Quranic verses based on emotions.
 
-Enables users to create high-quality, aesthetically pleasing images with verses from the Quran, simplifying the process of adding Quranic verses to images for sharing on social media.
+🖼️ [**Instant Islamic Posters**](https://instant-islamic-posters.vercel.app) – Generate Islamic poster designs instantly.
 
-**Technologies:** TypeScript
+---
 
-### [Portfolio Template](https://github.com/realtouseef/portfolio-template)
+## Other Builds
 
-A portfolio template for developers built with TypeScript and NextJS.
+👁️ **Gaze Guard** – Chrome extension using on-device AI to detect and blur inappropriate images. Runs locally, no data sent anywhere.
 
-**Technologies:** TypeScript, NextJS, React
+🌍 [**RealtimeGlobe**](https://realtimeglobe.vercel.app) – Interactive 3D globe component for React (Three.js + Globe.gl). Good for live data viz and visitor tracking.
 
-## Experience
+🎞️ [**ImageLoop**](https://image-loop.vercel.app) – Upload images, get a GIF. No sign-up, no subscription, no noise.
 
-### FullStack Engineer at Productbox
+📦 **Masonry** – NPM package for Pinterest-style masonry layouts.
 
-**11/2022 - Present**
+🏥 [**Pom Health**](https://pomhealth.co) – Health-focused product.
 
-- Skilled in using technologies such as JavaScript, ReactJS, CSS, React Hook Form, and Yup validation to deliver high-quality, maintainable code.
-- Proficient in integrating APIs and third-party services to create robust and scalable web applications.
-- Collaborating closely with cross-functional teams, including designers, product managers, and QA engineers, to deliver complex tasks on time and to the highest quality standards.
+✈️ [**Jetzy HBL**](https://hbl.jetzy.com) – Travel rewards integration.
 
-### FullStack Engineer at MetaKlouds
+---
 
-**01/2023 - 04/2023**
-
-- Developed a SaaS product similar to Behance and Dribbble using NextJS, TailwindCSS, React Hook Form, and Yup for validation to convert complex designs from Figma to an actual website.
-- Participated in daily standup meetings to report progress to product manager.
-- Collaborated with team members to ensure project is completed on time and to client's satisfaction.
-
-## Contributions
-
-I have made over 1,000 contributions in the last year, including commits and pull requests, across various repositories. My contributions span across projects like `JetzyTechTeam/events.jetzy.com`, `realtouseef/instant-islamic-posters`, and `realtouseef/gaze-guard`.
+> Building things that last — in code and, by Allah's permission, in reward.
