@@ -46,7 +46,7 @@ These matter most to me.
 
 ## Other Builds
 
-👁️ **Gaze Guard** – Chrome extension using on-device AI to detect and blur inappropriate images. Runs locally, no data sent anywhere.
+👁️ [**Gaze Guard**](https://chromewebstore.google.com/detail/gaze-guard-%E2%80%94-blur-inappro/ojbcgfmeecpilopnollmbiioainmdjeb?hl=en) – Chrome extension using on-device AI to detect and blur inappropriate images. Runs locally, no data sent anywhere.
 
 🌍 [**RealtimeGlobe**](https://realtimeglobe.vercel.app) – Interactive 3D globe component for React (Three.js + Globe.gl). Good for live data viz and visitor tracking.
 
