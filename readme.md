@@ -16,6 +16,8 @@ Working on products that are useful in this dunya and, In Sha Allah, sadaqa-e-ja
 
 ## Start Here
 
+[**Loopwise Studio**](https://loopwisestudio.com) — Websites, online booking & WhatsApp automation
+
 ✅ [**Proofly**](https://useproofly.app) – Social proof widget for SaaS products.
 
 🚀 [**ShipQuick**](https://shipquick.app) – TanStack Start SaaS boilerplate. MongoDB/Mongoose stack, lifetime deal, ships fast.
